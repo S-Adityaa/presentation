@@ -2,13 +2,16 @@
 seminar
 
 
-github intro
-- git github difference
-- why is github used
-- importance of github
-
-github demo
+github intro[irfan]-30 sec
+- git github difference[adi]
+- why is github used[adi]
+- importance of github[irfan]
+   
+github demo[irfan]
 - repo
+- page explain
 
 
 
+-fork[adi]
+github message 
