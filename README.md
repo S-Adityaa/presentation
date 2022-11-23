@@ -10,6 +10,7 @@ github intro[irfan]-30 sec
 github demo[irfan]
 - repo
 - page explain
+- how to contribute in open source project
 
 
 -github copilot
